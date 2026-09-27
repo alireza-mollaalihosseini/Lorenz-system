@@ -1,0 +1,11 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local data files (see README for sources)
+*.csv
+*.parquet
+*.pkl
